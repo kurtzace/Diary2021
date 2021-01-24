@@ -159,3 +159,19 @@ linen brown suit  jacket blazer with jute look.  net type of finish
  105 centimetre  with three buttons
 Selling prize: 1000 INR
 Used 5 times
+
+23. Offwhite beige chinese collar festive shirt - bandgala diwali/wedding.
+
+Large size
+
+Special floral design for the pocket
+
+ornate collar and sleeves.
+
+24. Orange velvet XL Festive blazer coat jacket for diwali/weddings.
+
+Used in just two functions 3 years ago.
+
+with cover
+
+Pooja color - suits for prayers
