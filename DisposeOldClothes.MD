@@ -70,7 +70,7 @@ Size: between large to extra large
 Selling prize: 500 INR
 mrp 2.5k
 
-10.  heavy red Bandhani kurta with lining.         
+10. (Sold) heavy red Bandhani kurta with lining.         
 Size: large to extra large
 length 39 inch chest 42 waist 38
 Selling prize: 800 INR
@@ -148,7 +148,7 @@ along with same color palazzo
  comes with matching dupatta 
 original price 10000 used just once and selling it for 3000
 
-21. sea green shaded sleeveless kurta with a top in a poncho style and matching wide-leg plazzo 
+21. (SOLD) sea green shaded sleeveless kurta with a top in a poncho style and matching wide-leg plazzo 
 3 piece set
 waist 38 inch chest 40 inch
 Selling prize 1000 INR
