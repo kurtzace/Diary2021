@@ -1,6 +1,6 @@
 # Setup Hit and Run AWS EC2 Ubuntu instance - all from the CLI
 
-
+https://github.com/kurtzace/Diary2021/issues/4
    
    
 Laptop OS: Ubuntu  20.04 
