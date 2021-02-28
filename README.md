@@ -1,7 +1,7 @@
 # Diary2021
 
-# Blog
-## devops 
+## Blog
+### devops 
 
 [Setup Hit and Run AWS EC2 Ubuntu instance - all from the CLI](https://github.com/kurtzace/Diary2021/blob/main/tech/devops/ec2awscli/README.MD)
 
