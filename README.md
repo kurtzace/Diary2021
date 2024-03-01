@@ -12,7 +12,7 @@
 https://www.udemy.com/share/101xw6BEsZeFZbTXg=/
 - "Getting Started with Docker" https://app.pluralsight.com/library/courses/37092a4b-64af-429f-ac0e-c30ace526653
 -  configuring kubernetes yaml
-https://www.udemy.com/share/101LYkBEsZeFZbTXg=/
+https://www.udemy.com/share/101LYkBEsZeFZbTXg=/ and https://github.com/kubernetes-study-guide/Kubernetes-Study-Guide/tree/master 
 - "Using Declarative Jenkins Pipelines" https://app.pluralsight.com/library/courses/28676cfb-e726-4bc9-a54f-9363352dd6d8
 - team city
 https://www.udemy.com/share/101CN4BEsZeFZbTXg=/
